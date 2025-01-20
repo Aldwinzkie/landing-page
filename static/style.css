@@ -95,8 +95,8 @@ nav{
 }
 
 .item img{
-    height: 220px;
-    width: 335px;
+    height: 180px;
+    width: 250px;
     border: 3px solid rgb(75, 135, 247);
     border-radius: .4rem;
 }
