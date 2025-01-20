@@ -10,7 +10,7 @@ img{
     max-width: 100%;
 }
 .container{
-    max-width: 90rem;
+    max-width: 75rem;
     margin: 0 auto;
 }
 header{
@@ -90,28 +90,26 @@ nav{
     margin: 2.5rem 0;
     font-size: 36px;
 }
+.new_container{
 
+}
 
 .item img{
     height: 220px;
     width: 335px;
-    border: 2px solid rgb(59, 124, 247);
+    border: 3px solid rgb(75, 135, 247);
     border-radius: .4rem;
 }
 
 .sec2-body{
     display: flex;
-    gap: 2.5rem;
+    gap: 3rem;
     padding-bottom: 7rem;
-}
-.item{
-    display: flex;
-    flex-direction: column;
-    width: 30%;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-    gap: .5rem;
-    color: #1F2937;
 }
+
 
 .section3{
     background: hsl(0, 0%, 85%);
